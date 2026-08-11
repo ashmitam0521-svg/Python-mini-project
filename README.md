@@ -11,4 +11,5 @@ python newfile.py
 ```
 ## Output
 
-![Program Output](Screenshot_2026-07-09-12-04-18-298_ru.iiec.pydroid3.jpg)
+![Program Output](Screenshot_2026-08-09-12-04-18-298_ru.iiec.pydroid3.jpg)
+
